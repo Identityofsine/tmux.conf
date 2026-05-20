@@ -4,3 +4,6 @@
 [submodule "plugins/themes/tmux-nova/tmux-nova"]
 	path = plugins/themes/tmux-nova/tmux-nova
 	url = https://github.com/o0th/tmux-nova
+[submodule "plugins/tmux2k-repo/tmux2k-repo"]
+	path = plugins/tmux2k-repo/tmux2k-repo
+	url = https://github.com/2KAbhishek/tmux2k
