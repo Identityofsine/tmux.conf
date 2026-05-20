@@ -1,3 +1,6 @@
 [submodule "plugins/themes/catppuccin/catppucin-repo"]
 	path = plugins/themes/catppucin-repo
 	url = https://github.com/catppuccin/tmux.git
+[submodule "plugins/themes/tmux-nova/tmux-nova"]
+	path = plugins/themes/tmux-nova/tmux-nova
+	url = https://github.com/o0th/tmux-nova
